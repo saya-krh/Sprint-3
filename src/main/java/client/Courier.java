@@ -5,7 +5,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 /**
- * Описание курьера.
+ * Описание данных курьера.
  */
 public class Courier {
     private String login;
